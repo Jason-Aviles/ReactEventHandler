@@ -1,0 +1,48 @@
+div {
+  width: 100%;
+  height: 380px;
+  padding-top: 20px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn {
+  background: orangered;
+  padding: 10px 30px;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  border: 1px orange solid;
+  border-radius: 10px;
+}
+hr {
+  background: rgba(144, 238, 144, 0);
+  border: 1px rgba(144, 238, 144, 0.301) solid;
+}
+
+.btn:hover {
+  background: rgb(187, 125, 102);
+  padding: 10px 30px;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  border: 1px rgb(236, 201, 135) solid;
+  border-radius: 10px;
+  color: rgba(29, 29, 29, 0.308);
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+h2 {
+  text-transform: capitalize;
+  font-size: 1.5rem;
+}
+
+p {
+  text-transform: capitalize;
+  font-size: 1rem;
+}
